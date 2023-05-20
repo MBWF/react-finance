@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "title": "Receita",
+      "value": "3000",
+      "category": "Salario",
+      "type": "income",
+      "date": "20/05/2023",
+      "id": 1
+    },
+    {
+      "title": "Parcela do Carro",
+      "value": "-700",
+      "category": "Carro",
+      "type": "budget",
+      "date": "20/05/2023",
+      "id": 2
+    }
+  ]
+}
